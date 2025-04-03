@@ -5,7 +5,7 @@ console.log(big);
 
 //substring
 let substring ="";
-let ans = substing.substring(1, 3);
+let ans = substring.substring(1, 3);
 console.log(ans);
 
 //check specific message

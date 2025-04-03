@@ -12,7 +12,7 @@ console.log(text);
 //adds new item to array and removes the first one
 const shoes = ['Nike', 'Adidas', 'Jordan'];
 shoes[shoes.length] = "Converse";
-cars.shift();
+shoes.shift();
 console.log(shoes);
 
 //finding index

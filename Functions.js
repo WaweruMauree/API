@@ -16,7 +16,6 @@ function reverseString(str){
 console.log(reverseString('good'));
 console.log(reverseString('morning'));
 console.log(reverseString('BBIT'));
-console.log(reverseString('B'));
 
 //return greeting message
 function greet(name){

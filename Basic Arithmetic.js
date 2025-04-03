@@ -1,7 +1,7 @@
 //area of rectangle
 let length = 10;
 let width = 5;
-let area = lenght * width;
+let area = length * width;
 console.log("Area is: " +area);
 
 //modulus
